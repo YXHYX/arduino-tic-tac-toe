@@ -5,6 +5,7 @@ Tic Tac Toe in Arduino with a TFT ILI9163C.
 You need 2 libraries:
 * [sumotoy's ILI9136C library](https://github.com/sumotoy/TFT_ILI9163C)
 * [sumotoy's Modified Adafruit library](https://github.com/sumotoy/Adafruit_GFX)
+
 You will also need some hardware:
 * TFT ILI9163C
 * Joystick module
