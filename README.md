@@ -15,18 +15,30 @@ You will also need some hardware:
 Circuit diagram for this project goes like:
 ### TFT ILI9163C
 VCC to +5V.
+
 GND to GND.
+
 DI to MOSI pin.
+
 SCK to SCK pin.
+
 CS to SS pin.
+
 RST to 3v3.
+
 RS(DC or A0) to DC or RS pin.
+
 LED to 3V3.
 ### Joystick
+
 VCC to +5V.
+
 GND to GND.
+
 VRx to A1.
+
 VRy to A2.
+
 SW to pin 7.
 
 ## Contribution
